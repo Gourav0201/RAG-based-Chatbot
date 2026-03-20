@@ -1,0 +1,12 @@
+langchain==0.1.20
+langchain-community==0.0.38
+langchain-huggingface==0.0.3
+faiss-cpu==1.7.4
+pypdf==4.2.0
+fastapi==0.111.0
+uvicorn==0.29.0
+python-multipart==0.0.9
+sentence-transformers==2.7.0
+transformers==4.40.0
+torch==2.3.0
+pydantic==2.7.1

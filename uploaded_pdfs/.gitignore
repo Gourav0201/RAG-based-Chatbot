@@ -1,0 +1,5 @@
+venv311
+_pycache_
+*.pdf
+vectorstore
+uploaded_pdfs/
